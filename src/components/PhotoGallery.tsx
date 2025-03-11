@@ -18,7 +18,7 @@ const cities: City[] = [
   {
     id: 1,
     name: "Mariupol",
-    images: ["/images/mariupol1.jpg", "/images/mariupol2.jpg"],
+    images: ["/images/mariupol1.jpg", "/images/mariupol2.jpg", "/images/mariupol3.jpg"],
     description: "Mariupol endured intense fighting and siege conditions, suffering severe damage to civilian infrastructure and humanitarian crisis."
   },
   {
