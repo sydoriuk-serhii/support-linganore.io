@@ -18,19 +18,19 @@ const cities: City[] = [
   {
     id: 1,
     name: "Mariupol",
-    images: ["/mariupol1.jpg", "/mariupol2.jpg"],
+    images: ["/images/mariupol1.jpg", "/images/mariupol2.jpg"],
     description: "Mariupol endured intense fighting and siege conditions, suffering severe damage to civilian infrastructure and humanitarian crisis."
   },
   {
     id: 2,
     name: "Bucha",
-    images: ["/bucha1.jpg", "/bucha2.jpg"],
+    images: ["/images/bucha1.jpg", "/images/bucha2.jpg"],
     description: "Bucha became a symbol of war crimes, with evidence of civilian casualties discovered after Russian forces withdrew."
   },
   {
     id: 3,
     name: "Kherson",
-    images: ["/kherson1.jpg", "/kherson2.jpg"],
+    images: ["/images/kherson1.jpg", "/images/kherson2.jpg"],
     description: "Kherson was the first major city to fall and later be liberated, experiencing months of occupation and resistance."
   }
 ];

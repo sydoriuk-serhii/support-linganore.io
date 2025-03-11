@@ -1,0 +1,10 @@
+
+# This file ensures the images directory is tracked by git
+# Even if it's empty
+# You should place your image files in this directory:
+# - mariupol1.jpg
+# - mariupol2.jpg
+# - bucha1.jpg
+# - bucha2.jpg
+# - kherson1.jpg
+# - kherson2.jpg
